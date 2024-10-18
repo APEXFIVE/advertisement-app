@@ -2,7 +2,7 @@ import React from 'react'
 
 const Settings = () => {
   return (
-    <div>Settings</div>
+    <div className='bg-red-400 h-screen w-screen'>Settings</div>
   )
 }
 
